@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">Motatawera Doctor</string>
+    <string name="title_activity_splash">FullscreenActivity</string>
+    <string name="_2021_kmk_inc">© 2021 KMK Inc.</string>
+
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="logo">logo</string>
+    <string name="password">password</string>
+    <string name="ID">ID</string>
+    <string name="login">Login</string>
+    <string name="registration">Registration</string>
+    <string name="default_notification_channel_id">News</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logout">logout</string>
+    <string name="Postfragment">Posts</string>
+    <string name="Chatfragment">Chat</string>
+    <string name="Notificationfragment">Notifications</string>
+    <string name="Profilefragment">Profile</string>
+    <string name="Settingfragment">Settings</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="arabic">Arabic</string>
+    <string name="english">English</string>
+    <string name="chose_language">Chose Language</string>
+
+    <string name="motatwera">Motatwera</string>
+    <string name="_8m">8m</string>
+    <string name="_2020_11_27_5_300_150_2020_11_19">متطورة_الهرم #_ تعلن إدارة المعهد عن تنظيم الحفل السنوى للخريجين وذلك يوم الجمعة الموافق 2020/11/27 الساعة الخامسة مساء بمدرج رقم 5 بالمعهد العالي للدراسات المتطورة بالهرم وقيمة الاشتراك للخريج 300 (ثلاثمائة جنيها) منها 150 (مائة وخمسون جنيها) تآمين ملابس الحفل تسترد بعد الحفل . آخر موعد للتسجيل يوم الخميس الموافق 2020/11/19 يسدد الاشتراك بمكتب رعاية الشباب بالمععد مع تمنياتنا للجميع بالنجاح والتوفيق وكل عام وأنتم بخير إدارة المعهد</string>
+    <string name="_50">50</string>
+    <string name="_20">20</string>
+    <string name="_10">10</string>
+    <string name="motatawera">Motatawera</string>
+    <string name="full_name">Full Name</string>
+    <string name="register">Register</string>
+    <string name="cominicate_with_a_hundred_of_students">Cominicate with a Hundred of Students</string>
+    <string name="can_t_login_reset_password">Can\'t Login Reset Password</string>
+    <string name="makepost">What\'s on your mind?</string>
+    <string name="type">Type :</string>
+    <string name="doctor">Doctor</string>
+    <string name="assistant">Assistant</string>
+
+    <string name="haram">Haram</string>
+    <string name="qtamia">Qtamia</string>
+    <string name="you_must_select_your_type">You Must Select Your Place </string>
+    <string name="you_must_select_your_place">You Must Select Your branch</string>
+    <string name="branch">Branch:</string>
+    <string name="email">Email</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forget_password">Forget Password</string>
+
+    <string name="add">Add</string>
+
+    <string name="please_make_unique_nquiz_title_nfor_your_quiz">Please Make Unique\nQuiz Title\nfor your Quiz</string>
+    <string name="subject">Subject</string>
+    <string name="add_quiz_title">Add Quiz Title</string>
+    <string name="continues">Continue</string>
+
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="save">Save</string>
+    <string name="cancle">Cancle</string>
+    <string name="edit_question">Edit Question</string>
+
+    <string name="add_answer_a">Add Answer A</string>
+    <string name="add_answer_b">Add Answer B</string>
+    <string name="add_answer_c">Add Answer C</string>
+    <string name="add_answer_d">Add Answer D</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="correct_answer_is">Correct Answer Is</string>
+    <string name="done">Done</string>
+    <string name="add_question">Add Question</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="change_password">Change Password</string>
+    <string name="language">Language</string>
+    <string name="question">Question</string>
+    <string name="answer_1">Answer 1</string>
+    <string name="answer_2">Answer 2</string>
+    <string name="answer_3">Answer 3</string>
+    <string name="answer_4">Answer 4</string>
+    <string name="the_correct_answer_is">The Correct Answer Is :</string>
+    <string name="quiz_title">Quiz Title</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="no_internet">no internet</string>
+    <string name="please_enter_your_old_password">pleas enter your old password!</string>
+    <string name="please_enter_your_password">Pleas enter your password!</string>
+    <string name="please_enter_your_confirm_password">Pleas enter your confirm password!</string>
+    <string name="all_password_must_be_greater_than_6_chracter">all password should be greater than 6 char!</string>
+    <string name="new_password_should_be_equal_confirm_new_password">new password should be equal confirm new password!</string>
+    <string name="old_password_is_incorrect">old password is incorrect!</string>
+    <string name="please_wait">Please wait..</string>
+    <string name="password_updated_successfuly">password update successfully!</string>
+    <string name="ok">OK</string>
+    <string name="invalid_email">Invalid email</string>
+    <string name="pleas_enter_your_email">pleas enter your Email</string>
+    <string name="pleas_enter_your_password">Pleas enter your Password</string>
+    <string name="account_not_approved_please_wait">account not Approved please wait</string>
+    <string name="incorrect_data">Incorrect Data</string>
+    <string name="account_is_disable">account is Disable</string>
+    <string name="please_enter_your_name">pleas enter your Name</string>
+    <string name="account_creating_successful">Account Created Successful</string>
+    <string name="sure_want_to_logout">sure want to logout?</string>
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+    <string name="quiz_started">Quiz Started</string>
+    <string name="quiz_stopped">Quiz Stopped</string>
+    <string name="connection_failed">Connection Failed</string>
+    <string name="delete_quiz">Delete Quiz</string>
+    <string name="sure_you_want_to_delete_quiz">Are you Sure you want to delete Quiz :</string>
+    <string name="confirm">Confirm</string>
+    <string name="quiz_deleted_successfully">Quiz Deleted Successfully</string>
+    <string name="required_question">required Question</string>
+    <string name="required_answer_1">required Answer 1</string>
+    <string name="required_answer_2">required Answer 2</string>
+    <string name="required_answer_3">required Answer 3</string>
+    <string name="required_answer_4">required Answer 4</string>
+    <string name="question_added_successfully">Question Added Successfully</string>
+    <string name="place">Place :</string>
+    <string name="quiz_added_uccessfully">Quiz Added Successfully</string>
+    <string name="question_updated_successfully">Question Updated Successfully</string>
+    <string name="fail">Fail</string>
+    <string name="delete_question">Delete Question</string>
+    <string name="are_you_sure_you_want_to_delete_question">Are you Sure you want to delete Question</string>
+
+
+</resources>
